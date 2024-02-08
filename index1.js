@@ -1,0 +1,5 @@
+const Moto = require('./program1.js')
+let vechile1 = new Moto('CAR', 'FERRRAI', 'RED')
+console.log(vechile1)
+let vechil2 = new Moto('BIKE', 'GT650', 'CUSTOM COLOR')
+console.log(vechil2)
